@@ -21,8 +21,7 @@
         <li><a href="#tab3">Contáctame</a></li>
        </ul>
        </div>
-     </nav>
-     </div>
+      </nav>
   </header>
   <main class="main">
     <div class="container">
